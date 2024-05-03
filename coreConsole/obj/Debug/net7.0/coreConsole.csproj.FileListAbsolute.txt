@@ -1,0 +1,15 @@
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/bin/Debug/net7.0/coreConsole
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/bin/Debug/net7.0/coreConsole.deps.json
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/bin/Debug/net7.0/coreConsole.runtimeconfig.json
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/bin/Debug/net7.0/coreConsole.dll
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/bin/Debug/net7.0/coreConsole.pdb
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/obj/Debug/net7.0/coreConsole.csproj.AssemblyReference.cache
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/obj/Debug/net7.0/coreConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/obj/Debug/net7.0/coreConsole.AssemblyInfoInputs.cache
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/obj/Debug/net7.0/coreConsole.AssemblyInfo.cs
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/obj/Debug/net7.0/coreConsole.csproj.CoreCompileInputs.cache
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/obj/Debug/net7.0/coreConsole.dll
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/obj/Debug/net7.0/refint/coreConsole.dll
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/obj/Debug/net7.0/coreConsole.pdb
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/obj/Debug/net7.0/coreConsole.genruntimeconfig.cache
+/Users/mdazharuddin/Projects/coreConsole/coreConsole/obj/Debug/net7.0/ref/coreConsole.dll
